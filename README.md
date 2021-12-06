@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jericklasat
 - 👀 I’m interested in php8, golang, react, tpyescript
 - 🌱 I’m currently learning golang, react, tpyescript
-- 💞️ I’m looking to collaborate on any project related to php8, golang, react, tpyescript
+- 💞️ I’m looking to collaborate on any project related to php8, golang, react, typescript
 - 📫 How to reach me? email me at icaminajerick@gmail.com
 
 <!---
